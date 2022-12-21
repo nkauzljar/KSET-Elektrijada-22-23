@@ -9,6 +9,7 @@
     (date "2022-12-16")
     (rev "Rev A")
     (company "KSET")
+    (comment 3 "Main board")
     (comment 4 "Author: Nikola Kaužljar")
   )
 
